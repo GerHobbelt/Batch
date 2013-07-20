@@ -1,0 +1,1048 @@
+@font-face {
+	font-family: 'batch';
+	src:url('batch-icons-webfont.eot');
+	src:url('batch-icons-webfont.eot?#iefix') format('embedded-opentype'),
+		url('batch-icons-webfont.woff') format('woff'),
+		url('batch-icons-webfont.ttf') format('truetype'),
+		url('batch-icons-webfont.svg#batch_iconsregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.icon-untitled:before, .icon-untitled-2:before, .icon-untitled-3:before, .icon-untitled-4:before, .icon-untitled-5:before, .icon-untitled-6:before, .icon-untitled-7:before, .icon-untitled-8:before, .icon-untitled-9:before, .icon-untitled-10:before, .icon-untitled-11:before, .icon-untitled-12:before, .icon-untitled-13:before, .icon-untitled-14:before, .icon-untitled-15:before, .icon-untitled-16:before, .icon-untitled-17:before, .icon-untitled-18:before, .icon-untitled-19:before, .icon-untitled-20:before, .icon-untitled-21:before, .icon-untitled-22:before, .icon-untitled-23:before, .icon-untitled-24:before, .icon-untitled-25:before, .icon-untitled-26:before, .icon-untitled-27:before, .icon-untitled-28:before, .icon-untitled-29:before, .icon-untitled-30:before, .icon-untitled-31:before, .icon-untitled-32:before, .icon-untitled-33:before, .icon-untitled-34:before, .icon-untitled-35:before, .icon-untitled-36:before, .icon-untitled-37:before, .icon-untitled-38:before, .icon-untitled-39:before, .icon-untitled-40:before, .icon-untitled-41:before, .icon-untitled-42:before, .icon-untitled-43:before, .icon-untitled-44:before, .icon-untitled-45:before, .icon-untitled-46:before, .icon-untitled-47:before, .icon-untitled-48:before, .icon-untitled-49:before, .icon-untitled-50:before, .icon-untitled-51:before, .icon-untitled-52:before, .icon-untitled-53:before, .icon-untitled-54:before, .icon-untitled-55:before, .icon-untitled-56:before, .icon-untitled-57:before, .icon-untitled-58:before, .icon-untitled-59:before, .icon-untitled-60:before, .icon-untitled-61:before, .icon-untitled-62:before, .icon-untitled-63:before, .icon-untitled-64:before, .icon-untitled-65:before, .icon-untitled-66:before, .icon-untitled-67:before, .icon-untitled-68:before, .icon-untitled-69:before, .icon-untitled-70:before, .icon-untitled-71:before, .icon-untitled-72:before, .icon-untitled-73:before, .icon-untitled-74:before, .icon-untitled-75:before, .icon-untitled-76:before, .icon-untitled-77:before, .icon-untitled-78:before, .icon-untitled-79:before, .icon-untitled-80:before, .icon-untitled-81:before, .icon-untitled-82:before, .icon-untitled-83:before, .icon-untitled-84:before, .icon-untitled-85:before, .icon-untitled-86:before, .icon-untitled-87:before, .icon-untitled-88:before, .icon-untitled-89:before, .icon-untitled-90:before, .icon-untitled-91:before, .icon-untitled-92:before, .icon-untitled-93:before, .icon-untitled-94:before, .icon-untitled-95:before, .icon-untitled-96:before, .icon-untitled-97:before, .icon-untitled-98:before, .icon-untitled-99:before, .icon-untitled-100:before, .icon-untitled-101:before, .icon-untitled-102:before, .icon-untitled-103:before, .icon-untitled-104:before, .icon-untitled-105:before, .icon-untitled-106:before, .icon-untitled-107:before, .icon-untitled-108:before, .icon-untitled-109:before, .icon-untitled-110:before, .icon-untitled-111:before, .icon-untitled-112:before, .icon-untitled-113:before, .icon-untitled-114:before, .icon-untitled-115:before, .icon-untitled-116:before, .icon-untitled-117:before, .icon-untitled-118:before, .icon-untitled-119:before, .icon-untitled-120:before, .icon-untitled-121:before, .icon-untitled-122:before, .icon-untitled-123:before, .icon-untitled-124:before, .icon-untitled-125:before, .icon-untitled-126:before, .icon-untitled-127:before, .icon-untitled-128:before, .icon-untitled-129:before, .icon-untitled-130:before, .icon-untitled-131:before, .icon-untitled-132:before, .icon-untitled-133:before, .icon-untitled-134:before, .icon-untitled-135:before, .icon-untitled-136:before, .icon-untitled-137:before, .icon-untitled-138:before, .icon-untitled-139:before, .icon-untitled-140:before, .icon-untitled-141:before, .icon-untitled-142:before, .icon-untitled-143:before, .icon-untitled-144:before, .icon-untitled-145:before, .icon-untitled-146:before, .icon-untitled-147:before, .icon-untitled-148:before, .icon-untitled-149:before, .icon-untitled-150:before, .icon-untitled-151:before, .icon-untitled-152:before, .icon-untitled-153:before, .icon-untitled-154:before, .icon-untitled-155:before, .icon-untitled-156:before, .icon-untitled-157:before, .icon-untitled-158:before, .icon-untitled-159:before, .icon-untitled-160:before, .icon-untitled-161:before, .icon-untitled-162:before, .icon-untitled-163:before, .icon-untitled-164:before, .icon-untitled-165:before, .icon-untitled-166:before, .icon-untitled-167:before, .icon-untitled-168:before, .icon-untitled-169:before, .icon-untitled-170:before, .icon-untitled-171:before, .icon-untitled-172:before, .icon-untitled-173:before, .icon-untitled-174:before, .icon-untitled-175:before, .icon-untitled-176:before, .icon-untitled-177:before, .icon-untitled-178:before, .icon-untitled-179:before, .icon-untitled-180:before, .icon-untitled-181:before, .icon-untitled-182:before, .icon-untitled-183:before, .icon-untitled-184:before, .icon-untitled-185:before, .icon-untitled-186:before, .icon-untitled-187:before, .icon-untitled-188:before, .icon-untitled-189:before, .icon-untitled-190:before, .icon-untitled-191:before, .icon-untitled-192:before, .icon-untitled-193:before, .icon-untitled-194:before, .icon-untitled-195:before, .icon-untitled-196:before, .icon-untitled-197:before, .icon-untitled-198:before, .icon-untitled-199:before, .icon-untitled-200:before, .icon-untitled-201:before, .icon-untitled-202:before, .icon-untitled-203:before, .icon-untitled-204:before, .icon-untitled-205:before, .icon-untitled-206:before, .icon-untitled-207:before, .icon-untitled-208:before, .icon-untitled-209:before, .icon-untitled-210:before, .icon-untitled-211:before, .icon-untitled-212:before, .icon-untitled-213:before, .icon-untitled-214:before, .icon-untitled-215:before, .icon-untitled-216:before, .icon-untitled-217:before, .icon-untitled-218:before, .icon-untitled-219:before, .icon-untitled-220:before, .icon-untitled-221:before, .icon-untitled-222:before, .icon-untitled-223:before, .icon-untitled-224:before, .icon-untitled-225:before, .icon-untitled-226:before, .icon-untitled-227:before, .icon-untitled-228:before, .icon-untitled-229:before, .icon-untitled-230:before, .icon-untitled-231:before, .icon-untitled-232:before, .icon-untitled-233:before, .icon-untitled-234:before, .icon-untitled-235:before, .icon-untitled-236:before, .icon-untitled-237:before, .icon-untitled-238:before, .icon-untitled-239:before, .icon-untitled-240:before, .icon-untitled-241:before, .icon-untitled-242:before, .icon-untitled-243:before, .icon-untitled-244:before, .icon-untitled-245:before, .icon-untitled-246:before, .icon-untitled-247:before, .icon-untitled-248:before, .icon-untitled-249:before, .icon-untitled-250:before, .icon-untitled-251:before, .icon-untitled-252:before, .icon-untitled-253:before, .icon-untitled-254:before, .icon-untitled-255:before, .icon-untitled-256:before, .icon-untitled-257:before, .icon-untitled-258:before, .icon-untitled-259:before, .icon-untitled-260:before, .icon-untitled-261:before, .icon-untitled-262:before, .icon-untitled-263:before, .icon-untitled-264:before, .icon-untitled-265:before, .icon-untitled-266:before, .icon-untitled-267:before, .icon-untitled-268:before, .icon-untitled-269:before, .icon-untitled-270:before, .icon-untitled-271:before, .icon-untitled-272:before, .icon-untitled-273:before, .icon-untitled-274:before, .icon-untitled-275:before, .icon-untitled-276:before, .icon-untitled-277:before, .icon-untitled-278:before, .icon-untitled-279:before, .icon-untitled-280:before, .icon-untitled-281:before, .icon-untitled-282:before, .icon-untitled-283:before, .icon-untitled-284:before, .icon-untitled-285:before, .icon-untitled-286:before, .icon-untitled-287:before, .icon-untitled-288:before, .icon-untitled-289:before, .icon-untitled-290:before, .icon-untitled-291:before, .icon-untitled-292:before, .icon-untitled-293:before, .icon-untitled-294:before, .icon-untitled-295:before, .icon-untitled-296:before, .icon-untitled-297:before, .icon-untitled-298:before, .icon-untitled-299:before, .icon-untitled-300:before, .icon-untitled-301:before, .icon-untitled-302:before, .icon-untitled-303:before, .icon-untitled-304:before, .icon-untitled-305:before, .icon-untitled-306:before, .icon-untitled-307:before, .icon-untitled-308:before, .icon-untitled-309:before, .icon-untitled-310:before, .icon-untitled-311:before, .icon-untitled-312:before, .icon-untitled-313:before, .icon-untitled-314:before, .icon-untitled-315:before, .icon-untitled-316:before, .icon-untitled-317:before, .icon-untitled-318:before, .icon-untitled-319:before, .icon-untitled-320:before, .icon-untitled-321:before, .icon-untitled-322:before, .icon-untitled-323:before, .icon-untitled-324:before, .icon-untitled-325:before, .icon-untitled-326:before, .icon-untitled-327:before, .icon-untitled-328:before, .icon-untitled-329:before, .icon-untitled-330:before, .icon-untitled-331:before, .icon-untitled-332:before, .icon-untitled-333:before, .icon-untitled-334:before, .icon-untitled-335:before, .icon-untitled-336:before, .icon-untitled-337:before, .icon-untitled-338:before, .icon-untitled-339:before, .icon-untitled-340:before, .icon-untitled-341:before, .icon-untitled-342:before, .icon-untitled-343:before {
+	font-family: 'batch';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-untitled:before {
+	content: "\f000";
+}
+.icon-untitled-2:before {
+	content: "\f001";
+}
+.icon-untitled-3:before {
+	content: "\f002";
+}
+.icon-untitled-4:before {
+	content: "\f003";
+}
+.icon-untitled-5:before {
+	content: "\f004";
+}
+.icon-untitled-6:before {
+	content: "\f005";
+}
+.icon-untitled-7:before {
+	content: "\f006";
+}
+.icon-untitled-8:before {
+	content: "\f007";
+}
+.icon-untitled-9:before {
+	content: "\f008";
+}
+.icon-untitled-10:before {
+	content: "\f009";
+}
+.icon-untitled-11:before {
+	content: "\f00a";
+}
+.icon-untitled-12:before {
+	content: "\f00b";
+}
+.icon-untitled-13:before {
+	content: "\f00c";
+}
+.icon-untitled-14:before {
+	content: "\f00d";
+}
+.icon-untitled-15:before {
+	content: "\f00e";
+}
+.icon-untitled-16:before {
+	content: "\f010";
+}
+.icon-untitled-17:before {
+	content: "\f011";
+}
+.icon-untitled-18:before {
+	content: "\f012";
+}
+.icon-untitled-19:before {
+	content: "\f013";
+}
+.icon-untitled-20:before {
+	content: "\f014";
+}
+.icon-untitled-21:before {
+	content: "\f015";
+}
+.icon-untitled-22:before {
+	content: "\f016";
+}
+.icon-untitled-23:before {
+	content: "\f017";
+}
+.icon-untitled-24:before {
+	content: "\f018";
+}
+.icon-untitled-25:before {
+	content: "\f019";
+}
+.icon-untitled-26:before {
+	content: "\f01a";
+}
+.icon-untitled-27:before {
+	content: "\f01b";
+}
+.icon-untitled-28:before {
+	content: "\f01c";
+}
+.icon-untitled-29:before {
+	content: "\f01d";
+}
+.icon-untitled-30:before {
+	content: "\f01e";
+}
+.icon-untitled-31:before {
+	content: "\f020";
+}
+.icon-untitled-32:before {
+	content: "\f021";
+}
+.icon-untitled-33:before {
+	content: "\f022";
+}
+.icon-untitled-34:before {
+	content: "\f023";
+}
+.icon-untitled-35:before {
+	content: "\f024";
+}
+.icon-untitled-36:before {
+	content: "\f025";
+}
+.icon-untitled-37:before {
+	content: "\f026";
+}
+.icon-untitled-38:before {
+	content: "\f027";
+}
+.icon-untitled-39:before {
+	content: "\f028";
+}
+.icon-untitled-40:before {
+	content: "\f029";
+}
+.icon-untitled-41:before {
+	content: "\f02a";
+}
+.icon-untitled-42:before {
+	content: "\f02b";
+}
+.icon-untitled-43:before {
+	content: "\f02c";
+}
+.icon-untitled-44:before {
+	content: "\f02d";
+}
+.icon-untitled-45:before {
+	content: "\f02e";
+}
+.icon-untitled-46:before {
+	content: "\f030";
+}
+.icon-untitled-47:before {
+	content: "\f031";
+}
+.icon-untitled-48:before {
+	content: "\f032";
+}
+.icon-untitled-49:before {
+	content: "\f033";
+}
+.icon-untitled-50:before {
+	content: "\f034";
+}
+.icon-untitled-51:before {
+	content: "\f035";
+}
+.icon-untitled-52:before {
+	content: "\f036";
+}
+.icon-untitled-53:before {
+	content: "\f037";
+}
+.icon-untitled-54:before {
+	content: "\f038";
+}
+.icon-untitled-55:before {
+	content: "\f039";
+}
+.icon-untitled-56:before {
+	content: "\f03a";
+}
+.icon-untitled-57:before {
+	content: "\f03b";
+}
+.icon-untitled-58:before {
+	content: "\f03c";
+}
+.icon-untitled-59:before {
+	content: "\f03d";
+}
+.icon-untitled-60:before {
+	content: "\f03e";
+}
+.icon-untitled-61:before {
+	content: "\f040";
+}
+.icon-untitled-62:before {
+	content: "\f041";
+}
+.icon-untitled-63:before {
+	content: "\f042";
+}
+.icon-untitled-64:before {
+	content: "\f043";
+}
+.icon-untitled-65:before {
+	content: "\f044";
+}
+.icon-untitled-66:before {
+	content: "\f045";
+}
+.icon-untitled-67:before {
+	content: "\f046";
+}
+.icon-untitled-68:before {
+	content: "\f047";
+}
+.icon-untitled-69:before {
+	content: "\f048";
+}
+.icon-untitled-70:before {
+	content: "\f049";
+}
+.icon-untitled-71:before {
+	content: "\f04a";
+}
+.icon-untitled-72:before {
+	content: "\f04b";
+}
+.icon-untitled-73:before {
+	content: "\f04c";
+}
+.icon-untitled-74:before {
+	content: "\f04d";
+}
+.icon-untitled-75:before {
+	content: "\f04e";
+}
+.icon-untitled-76:before {
+	content: "\f050";
+}
+.icon-untitled-77:before {
+	content: "\f051";
+}
+.icon-untitled-78:before {
+	content: "\f052";
+}
+.icon-untitled-79:before {
+	content: "\f053";
+}
+.icon-untitled-80:before {
+	content: "\f054";
+}
+.icon-untitled-81:before {
+	content: "\f055";
+}
+.icon-untitled-82:before {
+	content: "\f056";
+}
+.icon-untitled-83:before {
+	content: "\f057";
+}
+.icon-untitled-84:before {
+	content: "\f058";
+}
+.icon-untitled-85:before {
+	content: "\f059";
+}
+.icon-untitled-86:before {
+	content: "\f05a";
+}
+.icon-untitled-87:before {
+	content: "\f05b";
+}
+.icon-untitled-88:before {
+	content: "\f05c";
+}
+.icon-untitled-89:before {
+	content: "\f05d";
+}
+.icon-untitled-90:before {
+	content: "\f05e";
+}
+.icon-untitled-91:before {
+	content: "\f060";
+}
+.icon-untitled-92:before {
+	content: "\f061";
+}
+.icon-untitled-93:before {
+	content: "\f062";
+}
+.icon-untitled-94:before {
+	content: "\f063";
+}
+.icon-untitled-95:before {
+	content: "\f064";
+}
+.icon-untitled-96:before {
+	content: "\f065";
+}
+.icon-untitled-97:before {
+	content: "\f066";
+}
+.icon-untitled-98:before {
+	content: "\f067";
+}
+.icon-untitled-99:before {
+	content: "\f068";
+}
+.icon-untitled-100:before {
+	content: "\f069";
+}
+.icon-untitled-101:before {
+	content: "\f06a";
+}
+.icon-untitled-102:before {
+	content: "\f06b";
+}
+.icon-untitled-103:before {
+	content: "\f06c";
+}
+.icon-untitled-104:before {
+	content: "\f06d";
+}
+.icon-untitled-105:before {
+	content: "\f06e";
+}
+.icon-untitled-106:before {
+	content: "\f070";
+}
+.icon-untitled-107:before {
+	content: "\f071";
+}
+.icon-untitled-108:before {
+	content: "\f072";
+}
+.icon-untitled-109:before {
+	content: "\f073";
+}
+.icon-untitled-110:before {
+	content: "\f074";
+}
+.icon-untitled-111:before {
+	content: "\f075";
+}
+.icon-untitled-112:before {
+	content: "\f076";
+}
+.icon-untitled-113:before {
+	content: "\f077";
+}
+.icon-untitled-114:before {
+	content: "\f078";
+}
+.icon-untitled-115:before {
+	content: "\f079";
+}
+.icon-untitled-116:before {
+	content: "\f07a";
+}
+.icon-untitled-117:before {
+	content: "\f07b";
+}
+.icon-untitled-118:before {
+	content: "\f07c";
+}
+.icon-untitled-119:before {
+	content: "\f07d";
+}
+.icon-untitled-120:before {
+	content: "\f07e";
+}
+.icon-untitled-121:before {
+	content: "\f080";
+}
+.icon-untitled-122:before {
+	content: "\f081";
+}
+.icon-untitled-123:before {
+	content: "\f082";
+}
+.icon-untitled-124:before {
+	content: "\f083";
+}
+.icon-untitled-125:before {
+	content: "\f084";
+}
+.icon-untitled-126:before {
+	content: "\f085";
+}
+.icon-untitled-127:before {
+	content: "\f086";
+}
+.icon-untitled-128:before {
+	content: "\f087";
+}
+.icon-untitled-129:before {
+	content: "\f088";
+}
+.icon-untitled-130:before {
+	content: "\f089";
+}
+.icon-untitled-131:before {
+	content: "\f08a";
+}
+.icon-untitled-132:before {
+	content: "\f08b";
+}
+.icon-untitled-133:before {
+	content: "\f08c";
+}
+.icon-untitled-134:before {
+	content: "\f08d";
+}
+.icon-untitled-135:before {
+	content: "\f08e";
+}
+.icon-untitled-136:before {
+	content: "\f090";
+}
+.icon-untitled-137:before {
+	content: "\f091";
+}
+.icon-untitled-138:before {
+	content: "\f092";
+}
+.icon-untitled-139:before {
+	content: "\f093";
+}
+.icon-untitled-140:before {
+	content: "\f094";
+}
+.icon-untitled-141:before {
+	content: "\f095";
+}
+.icon-untitled-142:before {
+	content: "\f096";
+}
+.icon-untitled-143:before {
+	content: "\f097";
+}
+.icon-untitled-144:before {
+	content: "\f098";
+}
+.icon-untitled-145:before {
+	content: "\f099";
+}
+.icon-untitled-146:before {
+	content: "\f09a";
+}
+.icon-untitled-147:before {
+	content: "\f09b";
+}
+.icon-untitled-148:before {
+	content: "\f09c";
+}
+.icon-untitled-149:before {
+	content: "\f09d";
+}
+.icon-untitled-150:before {
+	content: "\f09e";
+}
+.icon-untitled-151:before {
+	content: "\f0a0";
+}
+.icon-untitled-152:before {
+	content: "\f0a1";
+}
+.icon-untitled-153:before {
+	content: "\f0a2";
+}
+.icon-untitled-154:before {
+	content: "\f0a3";
+}
+.icon-untitled-155:before {
+	content: "\f0a4";
+}
+.icon-untitled-156:before {
+	content: "\f0a5";
+}
+.icon-untitled-157:before {
+	content: "\f0a6";
+}
+.icon-untitled-158:before {
+	content: "\f0a7";
+}
+.icon-untitled-159:before {
+	content: "\f0a8";
+}
+.icon-untitled-160:before {
+	content: "\f0a9";
+}
+.icon-untitled-161:before {
+	content: "\f0aa";
+}
+.icon-untitled-162:before {
+	content: "\f0ab";
+}
+.icon-untitled-163:before {
+	content: "\f0ac";
+}
+.icon-untitled-164:before {
+	content: "\f0ad";
+}
+.icon-untitled-165:before {
+	content: "\f0ae";
+}
+.icon-untitled-166:before {
+	content: "\f0b0";
+}
+.icon-untitled-167:before {
+	content: "\f0b1";
+}
+.icon-untitled-168:before {
+	content: "\f0b2";
+}
+.icon-untitled-169:before {
+	content: "\f0b3";
+}
+.icon-untitled-170:before {
+	content: "\f0b4";
+}
+.icon-untitled-171:before {
+	content: "\f0b5";
+}
+.icon-untitled-172:before {
+	content: "\f0b6";
+}
+.icon-untitled-173:before {
+	content: "\f0b7";
+}
+.icon-untitled-174:before {
+	content: "\f0b8";
+}
+.icon-untitled-175:before {
+	content: "\f0b9";
+}
+.icon-untitled-176:before {
+	content: "\f0ba";
+}
+.icon-untitled-177:before {
+	content: "\f0bb";
+}
+.icon-untitled-178:before {
+	content: "\f0bc";
+}
+.icon-untitled-179:before {
+	content: "\f0bd";
+}
+.icon-untitled-180:before {
+	content: "\f0be";
+}
+.icon-untitled-181:before {
+	content: "\f0c0";
+}
+.icon-untitled-182:before {
+	content: "\f0c1";
+}
+.icon-untitled-183:before {
+	content: "\f0c2";
+}
+.icon-untitled-184:before {
+	content: "\f0c3";
+}
+.icon-untitled-185:before {
+	content: "\f0c4";
+}
+.icon-untitled-186:before {
+	content: "\f0c5";
+}
+.icon-untitled-187:before {
+	content: "\f0c6";
+}
+.icon-untitled-188:before {
+	content: "\f0c7";
+}
+.icon-untitled-189:before {
+	content: "\f0c8";
+}
+.icon-untitled-190:before {
+	content: "\f0c9";
+}
+.icon-untitled-191:before {
+	content: "\f0ca";
+}
+.icon-untitled-192:before {
+	content: "\f0cb";
+}
+.icon-untitled-193:before {
+	content: "\f0cc";
+}
+.icon-untitled-194:before {
+	content: "\f0cd";
+}
+.icon-untitled-195:before {
+	content: "\f0ce";
+}
+.icon-untitled-196:before {
+	content: "\f0d0";
+}
+.icon-untitled-197:before {
+	content: "\f0d1";
+}
+.icon-untitled-198:before {
+	content: "\f0d2";
+}
+.icon-untitled-199:before {
+	content: "\f0d3";
+}
+.icon-untitled-200:before {
+	content: "\f0d4";
+}
+.icon-untitled-201:before {
+	content: "\f0d5";
+}
+.icon-untitled-202:before {
+	content: "\f0d6";
+}
+.icon-untitled-203:before {
+	content: "\f0d7";
+}
+.icon-untitled-204:before {
+	content: "\f0d8";
+}
+.icon-untitled-205:before {
+	content: "\f0d9";
+}
+.icon-untitled-206:before {
+	content: "\f0da";
+}
+.icon-untitled-207:before {
+	content: "\f0db";
+}
+.icon-untitled-208:before {
+	content: "\f0dc";
+}
+.icon-untitled-209:before {
+	content: "\f0dd";
+}
+.icon-untitled-210:before {
+	content: "\f0de";
+}
+.icon-untitled-211:before {
+	content: "\f0e0";
+}
+.icon-untitled-212:before {
+	content: "\f0e1";
+}
+.icon-untitled-213:before {
+	content: "\f0e2";
+}
+.icon-untitled-214:before {
+	content: "\f0e3";
+}
+.icon-untitled-215:before {
+	content: "\f0e4";
+}
+.icon-untitled-216:before {
+	content: "\f0e5";
+}
+.icon-untitled-217:before {
+	content: "\f0e6";
+}
+.icon-untitled-218:before {
+	content: "\f0e7";
+}
+.icon-untitled-219:before {
+	content: "\f0e8";
+}
+.icon-untitled-220:before {
+	content: "\f0e9";
+}
+.icon-untitled-221:before {
+	content: "\f0ea";
+}
+.icon-untitled-222:before {
+	content: "\f0eb";
+}
+.icon-untitled-223:before {
+	content: "\f0ec";
+}
+.icon-untitled-224:before {
+	content: "\f0ed";
+}
+.icon-untitled-225:before {
+	content: "\f0ee";
+}
+.icon-untitled-226:before {
+	content: "\f100";
+}
+.icon-untitled-227:before {
+	content: "\f101";
+}
+.icon-untitled-228:before {
+	content: "\f102";
+}
+.icon-untitled-229:before {
+	content: "\f103";
+}
+.icon-untitled-230:before {
+	content: "\f104";
+}
+.icon-untitled-231:before {
+	content: "\f105";
+}
+.icon-untitled-232:before {
+	content: "\f106";
+}
+.icon-untitled-233:before {
+	content: "\f107";
+}
+.icon-untitled-234:before {
+	content: "\f108";
+}
+.icon-untitled-235:before {
+	content: "\f109";
+}
+.icon-untitled-236:before {
+	content: "\f10a";
+}
+.icon-untitled-237:before {
+	content: "\f10b";
+}
+.icon-untitled-238:before {
+	content: "\f10c";
+}
+.icon-untitled-239:before {
+	content: "\f10d";
+}
+.icon-untitled-240:before {
+	content: "\f10e";
+}
+.icon-untitled-241:before {
+	content: "\f110";
+}
+.icon-untitled-242:before {
+	content: "\f111";
+}
+.icon-untitled-243:before {
+	content: "\f112";
+}
+.icon-untitled-244:before {
+	content: "\f113";
+}
+.icon-untitled-245:before {
+	content: "\f114";
+}
+.icon-untitled-246:before {
+	content: "\f115";
+}
+.icon-untitled-247:before {
+	content: "\f116";
+}
+.icon-untitled-248:before {
+	content: "\f117";
+}
+.icon-untitled-249:before {
+	content: "\f118";
+}
+.icon-untitled-250:before {
+	content: "\f119";
+}
+.icon-untitled-251:before {
+	content: "\f11a";
+}
+.icon-untitled-252:before {
+	content: "\f11b";
+}
+.icon-untitled-253:before {
+	content: "\f11c";
+}
+.icon-untitled-254:before {
+	content: "\f11d";
+}
+.icon-untitled-255:before {
+	content: "\f11e";
+}
+.icon-untitled-256:before {
+	content: "\f120";
+}
+.icon-untitled-257:before {
+	content: "\f121";
+}
+.icon-untitled-258:before {
+	content: "\f122";
+}
+.icon-untitled-259:before {
+	content: "\f123";
+}
+.icon-untitled-260:before {
+	content: "\f124";
+}
+.icon-untitled-261:before {
+	content: "\f125";
+}
+.icon-untitled-262:before {
+	content: "\f126";
+}
+.icon-untitled-263:before {
+	content: "\f127";
+}
+.icon-untitled-264:before {
+	content: "\f128";
+}
+.icon-untitled-265:before {
+	content: "\f129";
+}
+.icon-untitled-266:before {
+	content: "\f12a";
+}
+.icon-untitled-267:before {
+	content: "\f12b";
+}
+.icon-untitled-268:before {
+	content: "\f12c";
+}
+.icon-untitled-269:before {
+	content: "\f12d";
+}
+.icon-untitled-270:before {
+	content: "\f12e";
+}
+.icon-untitled-271:before {
+	content: "\f130";
+}
+.icon-untitled-272:before {
+	content: "\f131";
+}
+.icon-untitled-273:before {
+	content: "\f132";
+}
+.icon-untitled-274:before {
+	content: "\f133";
+}
+.icon-untitled-275:before {
+	content: "\f134";
+}
+.icon-untitled-276:before {
+	content: "\f135";
+}
+.icon-untitled-277:before {
+	content: "\f136";
+}
+.icon-untitled-278:before {
+	content: "\f137";
+}
+.icon-untitled-279:before {
+	content: "\f138";
+}
+.icon-untitled-280:before {
+	content: "\f139";
+}
+.icon-untitled-281:before {
+	content: "\f13a";
+}
+.icon-untitled-282:before {
+	content: "\f13b";
+}
+.icon-untitled-283:before {
+	content: "\f13c";
+}
+.icon-untitled-284:before {
+	content: "\f13d";
+}
+.icon-untitled-285:before {
+	content: "\f13e";
+}
+.icon-untitled-286:before {
+	content: "\f140";
+}
+.icon-untitled-287:before {
+	content: "\f141";
+}
+.icon-untitled-288:before {
+	content: "\f142";
+}
+.icon-untitled-289:before {
+	content: "\f143";
+}
+.icon-untitled-290:before {
+	content: "\f144";
+}
+.icon-untitled-291:before {
+	content: "\f145";
+}
+.icon-untitled-292:before {
+	content: "\f146";
+}
+.icon-untitled-293:before {
+	content: "\f147";
+}
+.icon-untitled-294:before {
+	content: "\f148";
+}
+.icon-untitled-295:before {
+	content: "\f149";
+}
+.icon-untitled-296:before {
+	content: "\f14a";
+}
+.icon-untitled-297:before {
+	content: "\f14b";
+}
+.icon-untitled-298:before {
+	content: "\f14c";
+}
+.icon-untitled-299:before {
+	content: "\f14d";
+}
+.icon-untitled-300:before {
+	content: "\f14e";
+}
+.icon-untitled-301:before {
+	content: "\f150";
+}
+.icon-untitled-302:before {
+	content: "\f151";
+}
+.icon-untitled-303:before {
+	content: "\f152";
+}
+.icon-untitled-304:before {
+	content: "\f153";
+}
+.icon-untitled-305:before {
+	content: "\f154";
+}
+.icon-untitled-306:before {
+	content: "\f155";
+}
+.icon-untitled-307:before {
+	content: "\f156";
+}
+.icon-untitled-308:before {
+	content: "\f157";
+}
+.icon-untitled-309:before {
+	content: "\f158";
+}
+.icon-untitled-310:before {
+	content: "\f159";
+}
+.icon-untitled-311:before {
+	content: "\f15a";
+}
+.icon-untitled-312:before {
+	content: "\f15b";
+}
+.icon-untitled-313:before {
+	content: "\f15c";
+}
+.icon-untitled-314:before {
+	content: "\f15d";
+}
+.icon-untitled-315:before {
+	content: "\f15e";
+}
+.icon-untitled-316:before {
+	content: "\f160";
+}
+.icon-untitled-317:before {
+	content: "\f161";
+}
+.icon-untitled-318:before {
+	content: "\f162";
+}
+.icon-untitled-319:before {
+	content: "\f163";
+}
+.icon-untitled-320:before {
+	content: "\f164";
+}
+.icon-untitled-321:before {
+	content: "\f165";
+}
+.icon-untitled-322:before {
+	content: "\f166";
+}
+.icon-untitled-323:before {
+	content: "\f167";
+}
+.icon-untitled-324:before {
+	content: "\f168";
+}
+.icon-untitled-325:before {
+	content: "\f169";
+}
+.icon-untitled-326:before {
+	content: "\f16a";
+}
+.icon-untitled-327:before {
+	content: "\f16b";
+}
+.icon-untitled-328:before {
+	content: "\f16c";
+}
+.icon-untitled-329:before {
+	content: "\f16d";
+}
+.icon-untitled-330:before {
+	content: "\f16e";
+}
+.icon-untitled-331:before {
+	content: "\f170";
+}
+.icon-untitled-332:before {
+	content: "\f171";
+}
+.icon-untitled-333:before {
+	content: "\f172";
+}
+.icon-untitled-334:before {
+	content: "\f173";
+}
+.icon-untitled-335:before {
+	content: "\f174";
+}
+.icon-untitled-336:before {
+	content: "\f175";
+}
+.icon-untitled-337:before {
+	content: "\f176";
+}
+.icon-untitled-338:before {
+	content: "\f177";
+}
+.icon-untitled-339:before {
+	content: "\f178";
+}
+.icon-untitled-340:before {
+	content: "\f179";
+}
+.icon-untitled-341:before {
+	content: "\f17a";
+}
+.icon-untitled-342:before {
+	content: "\f17b";
+}
+.icon-untitled-343:before {
+	content: "\f17c";
+}
